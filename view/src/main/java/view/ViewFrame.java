@@ -33,9 +33,6 @@ public class ViewFrame extends JFrame  {
 		this.setLocationRelativeTo(null);
 	}
 
-	
-	public void displayMessage(final String message) {
-		JOptionPane.showMessageDialog(null, message);
-	}
+
 	
 }
